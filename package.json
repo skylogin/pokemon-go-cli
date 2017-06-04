@@ -1,0 +1,16 @@
+{
+  "name": "pokemon-go-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pogobuf-vnext": "github:pogosandbox/pogobuf",
+    "pogobuf-signature": "github:pogosandbox/pogobuf-signature"
+  }
+}
