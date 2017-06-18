@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pogobuf-vnext": "github:pogosandbox/pogobuf",
-    "pogobuf-signature": "github:pogosandbox/pogobuf-signature"
+    "log4js": "^1.1.1",
+    "pogobuf-signature": "github:pogosandbox/pogobuf-signature",
+    "pogobuf-vnext": "github:pogosandbox/pogobuf"
   }
 }
